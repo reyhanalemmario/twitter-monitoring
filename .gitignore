@@ -1,1 +1,5 @@
 my-project-env
+.vscode
+twitter_credentials.py
+__pycache__
+test.ipynb
